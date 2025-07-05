@@ -3,5 +3,5 @@ name: promethesis
 version: 0.1.0
 dependencies:
   - name: kube-prometheus-stack
-    version: 59.0.0  # or latest
+    version: 59.0.0
     repository: https://prometheus-community.github.io/helm-charts
