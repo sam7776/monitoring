@@ -3,5 +3,5 @@ name: grafana
 version: 0.1.0
 dependencies:
   - name: grafana
-    version: 10.4.0  # pick latest from Bitnami
+    version: 10.4.0
     repository: https://charts.bitnami.com/bitnami
