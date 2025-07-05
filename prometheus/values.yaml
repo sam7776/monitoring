@@ -1,0 +1,12 @@
+grafana:
+  enabled: false  # We deploy Grafana separately
+
+prometheus:
+  prometheusSpec:
+    serviceMonitorSelectorNilUsesHelmValues: false
+
+alertmanager:
+  enabled: true
+
+defaultRules:
+  create: true
