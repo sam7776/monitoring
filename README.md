@@ -1,0 +1,2 @@
+# monitoring
+grafana and promethisis 
