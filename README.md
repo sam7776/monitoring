@@ -1,2 +1,2 @@
 # monitoring
-grafana and promethisis 
+grafana and prometheus
