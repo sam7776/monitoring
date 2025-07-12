@@ -28,7 +28,7 @@ metadata:
   labels:
     app: nginx
 spec:
-  type: ClusterIP  # Default service type (internal)
+  type: NodePort  # Default service type (internal)
   selector:
     app: nginx     # Matches the deployment's pods
   ports:
